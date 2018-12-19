@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <div className="banner">
             <div className="main_cover">
-                <div className="logo"> Music logo</div>
+                <div className="logo"> POP SHOW</div>
                 
             </div>
             <span></span>
